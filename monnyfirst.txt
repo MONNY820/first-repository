@@ -1,2 +1,7 @@
 Hello, GitHub!
 This is an updated version of my file.
+
+git add monnyfirst.txt
+git commit -m "Updated monnyfirst.txt with new lines"
+git push origin main
+
